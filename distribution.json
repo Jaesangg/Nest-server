@@ -1,0 +1,28 @@
+{
+  "version": "1.0.0",
+  "rss": "<LINK TO RSS FEED>",
+  "discord": {
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+  },
+  "servers": [
+    {
+      "id": "Nestserver-1.20.1",
+      "name": "Nestserver (Minecraft 1.20.1)",
+      "description": "Nestserver Running Minecraft 1.20.1",
+      "icon": "https://media.discordapp.net/attachments/1324786073687031940/1343839717552033802/6e776481be472015.jpg?ex=67bebbc3&is=67bd6a43&hm=419c21ce13dba20d4f941b6dcec46f74b0c8c076ee72a18345f5a810c5546a56&=&format=webp&width=909&height=905",
+      "version": "1.0.0",
+      "address": "boobsae.r-e.kr",
+      "minecraftVersion": "1.20.1",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": false,
+      "autoconnect": false,
+      "modules": []
+    }
+  ]
+}
