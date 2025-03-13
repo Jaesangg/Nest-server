@@ -1,0 +1,21 @@
+# Custom Language File for Launcher Customizer
+
+[ejs.app]
+title = "Nest Launcher"
+
+[ejs.landing]
+mediaLinkURL = "#"
+mediaGitHubURL = "#"
+mediaTwitterURL = "#"
+mediaInstagramURL = "#"
+mediaYouTubeURL = "#"
+mediaDiscordURL = "#"
+
+[ejs.settings]
+sourceGithubLink = "#"
+supportLink = "#"
+
+[ejs.welcome]
+welcomeHeader = "둥지서버에 오신것을 환영합니다!!"
+welcomeDescription = "#"
+welcomeDescCTA = "#"
